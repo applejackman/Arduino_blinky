@@ -1,3 +1,5 @@
+// Joon-Yee Chuah
+
 #define RED_LED 7
 
 void setup() {
